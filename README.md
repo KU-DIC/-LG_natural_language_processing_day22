@@ -1,1 +1,1 @@
-# -LG_natural_language_processing_day22
+# LG_natural_language_processing_day22
